@@ -11,3 +11,4 @@ print("my name is: ", myName);
 
 #to print a length of a string: 
 print(len(myName));
+
